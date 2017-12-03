@@ -1,5 +1,5 @@
 
-# My JS 30 - Key takeaways
+# My JS 30 - Key learnings
 
 ## #1 - Drum Kit
 * The 'transitionend' EventListener
@@ -45,3 +45,7 @@
 * `.every()` - returns true only if all items meet condition
 * `.find()` - will return first item that meets this condition
 * `.findIndex()` - return index of item that meets condition
+
+## # 8 - HTML5 Canvas
+* Drawing in canvas within browser with `.ctx`
+* HSL colour values (Hue, Saturation, Lightness)
