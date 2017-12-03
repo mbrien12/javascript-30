@@ -39,3 +39,9 @@
 * Using REGEX in JS
 * Reading and parsing JSON from external source with `.fetch()`
 * Using `.replace()` to replace HTML with new classes
+
+## # 7 Array cardio 2
+* `.some()` - returns true if one of the items in the array meets x condition
+* `.every()` - returns true only if all items meet condition
+* `.find()` - will return first item that meets this condition
+* `.findIndex()` - return index of item that meets condition
