@@ -49,3 +49,7 @@
 ## # 8 - HTML5 Canvas
 * Drawing in canvas within browser with `.ctx`
 * HSL colour values (Hue, Saturation, Lightness)
+
+## # 9 - Dev tool tricks
+* See where JS is being executed by right clicking on DOM element in Elements panel > Break on > attribute modifications
+* Different console 'log' types e.g. error/warn/info/timing....
