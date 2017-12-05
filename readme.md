@@ -53,3 +53,8 @@
 ## # 9 - Dev tool tricks
 * See where JS is being executed by right clicking on DOM element in Elements panel > Break on > attribute modifications
 * Different console 'log' types e.g. error/warn/info/timing....
+
+## # 10 - Checking multiple checkboxes by holding shift
+* Remember to listen out to all elements that could be interacted with!
+* Click event will fire even if use keyboard
+* Just save event variable as `e`
