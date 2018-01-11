@@ -58,3 +58,6 @@
 * Remember to listen out to all elements that could be interacted with!
 * Click event will fire even if use keyboard
 * Just save event variable as `e`
+
+## # 11 - Custom HTML Video Player
+* 
