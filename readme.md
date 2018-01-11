@@ -60,4 +60,7 @@
 * Just save event variable as `e`
 
 ## # 11 - Custom HTML Video Player
-* 
+* Reinforcing pattern of...
+  1. Select elements
+  2. Create functions
+  3. Add event listeners
