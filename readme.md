@@ -64,3 +64,14 @@
   1. Select elements
   2. Create functions
   3. Add event listeners
+
+## #12 -  Key sequence detection
+* `.push()` - to add to array
+* `.splice()` - to cut array to certain length
+* `.includes()` - to check if exists in array
+
+## #13 - Slide in on scroll
+* CSS `transform: translate()` to move element along X/Y axis
+* Use a `debounce` method to limit rate a function will fire - important for scroll functions
+* `window.scrollY` - to count pixels in scroll down
+* `.offsetTop` - will give pixels from top of window 
