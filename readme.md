@@ -74,4 +74,10 @@
 * CSS `transform: translate()` to move element along X/Y axis
 * Use a `debounce` method to limit rate a function will fire - important for scroll functions
 * `window.scrollY` - to count pixels in scroll down
-* `.offsetTop` - will give pixels from top of window 
+* `.offsetTop` - will give pixels from top of window
+
+## #14 - Object and arrays - Reference vs. copy
+*  Assigning new value to let/const will not over-ride, will add to variable (in addition to anything existing)
+*  If you update a copy of an array, it will update the original - so need to make a proper copy rather than just a reference. By..
+`const team = players.slice();` OR ES6 spread `team = [...players];`
+* To copy an object use `person = Object.assign({}, person, {number:99});` - just one level deep (won't copy nested items)
